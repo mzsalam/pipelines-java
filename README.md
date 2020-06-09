@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ms-vsbuilds/pipeline_test/_apis/build/status/mzsalam.pipelines-java?branchName=master)](https://dev.azure.com/ms-vsbuilds/pipeline_test/_build/latest?definitionId=12&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
